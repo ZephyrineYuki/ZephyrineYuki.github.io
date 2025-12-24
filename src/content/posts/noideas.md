@@ -15,7 +15,7 @@ S 市刚淋过一场淅沥秋雨，天津却已浸在初冬的清寒里。暖寒
 我对生活是否有格调，有个朴素的想法：若有空闲，是否愿意去探索脚下的城市。若以此为准则，许多城市都入不了我的眼。A 市也好，S 市也罢，每逢空闲，我总在家中呆坐，无所事事。这份无所适从的空落，总在不经意间攥着惶恐。
 
 <div align="center">
-  <img src="/images/posts/noideas/111.jpg" width="400">
+  <img src="/images/posts/noideas/111.webp" width="400">
   <!-- <div style="font-size: 0.85em; color: #666; margin-top: 4px;">
     图 1：xxxx
   </div> -->
