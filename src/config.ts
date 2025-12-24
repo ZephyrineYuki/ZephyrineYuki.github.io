@@ -8,9 +8,9 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Yuki",
-	subtitle: "Yuki's Blog",
-	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
+	title: "YUKI.N",
+	subtitle: "",
+	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: false, // Hide the theme color picker for visitors
@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/profile_.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/000.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Yuki",
 	bio: "Share my thoughts and experiences.",
 	links: [
@@ -74,11 +74,16 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/ZephyrineYuki",
 		},
+		{
+			name: "Instagram",
+			icon: "fa6-brands:instagram",
+			url: "https://github.com/kolerliu",
+		},
 	],
 };
 
 export const licenseConfig: LicenseConfig = {
-	enable: true,
+	enable: false,
 	name: "CC BY-NC-SA 4.0",
 	url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
 };
