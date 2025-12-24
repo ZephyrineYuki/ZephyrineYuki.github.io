@@ -4,7 +4,7 @@ published: 2025-11-19
 description: " "
 image: ""
 tags: ["Essay"]
-category: Essay
+category: "Essay"
 draft: false
 ---
 
