@@ -6,7 +6,8 @@
 
 A static blog template built with [Astro](https://astro.build).
 
-All Rights Reserved. / RSS / Sitemap
+All Rights Reserved. / RSS / Sitemap.
+
 Powered by Astro & Fuwari
 
 ## 📄 License
