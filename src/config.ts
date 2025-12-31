@@ -77,7 +77,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Instagram",
 			icon: "fa6-brands:instagram",
-			url: "https://github.com/kolerliu",
+			url: "https://www.instagram.com/kolerliu",
 		},
 	],
 };
